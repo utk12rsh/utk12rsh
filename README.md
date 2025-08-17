@@ -60,7 +60,7 @@
 <details>
 <summary>⚡ QR Code Generator</summary>
 <br>
-🔗 [View Repo](https://github.com/utk12rsh/QRCode-Generator)  
+🔗 [View Repo](https://github.com/utk12rsh/QR-Code-Generator)  
 ⚙️ Tech Stack: **.NET Core 9.0, QRCoder, iTextSharp**  
 📌 Description: Create & download QR Codes in PDF format. Simple, fast, and user-friendly.  
 </details>
