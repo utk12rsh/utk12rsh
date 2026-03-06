@@ -15,7 +15,7 @@
 
 💡 I’m a passionate **Full-Stack Developer** who thrives on solving real-world problems through technology.  
 🎯 My focus is on writing **clean, maintainable, and scalable code** that not only works but lasts.  
-🌱 Currently sharpening my expertise in **.NET Core, Angular Core, SQL, and LINQ**, while continuously learning new tools and frameworks.  
+🌱 Currently sharpening my expertise in **.NET Core, React, SQL, and LINQ**, while continuously learning new tools and frameworks.  
 💼 Past Experience: Worked at **ChromeInfotech**, where I collaborated with teams, managed multiple tasks under pressure, and delivered solutions aligned with business goals.  
 🧩 I enjoy taking on **challenging projects** that push me out of my comfort zone — whether it’s designing complex databases, optimizing backend performance, or creating seamless frontend experiences.  
 ⚡ Fun fact: I treat coding like storytelling — every line of code should have a purpose, flow naturally, and create impact.  
